@@ -1,6 +1,6 @@
 using System.Numerics;
 
-namespace DiceSim.Core.Utils;
+namespace DiceSim.Utils;
 
 public readonly struct NumericRange<T> where T : INumber<T>
 {

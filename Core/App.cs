@@ -1,5 +1,5 @@
 using DiceSim.Common;
-using DiceSim.Core.Utils;
+using DiceSim.Utils;
 
 namespace DiceSim.Core;
 
